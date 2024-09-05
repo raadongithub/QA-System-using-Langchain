@@ -20,8 +20,8 @@ This repository contains an AI-powered Question-Answering application that lever
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/raadongithub/QA-System-using-Langchain.git
-cd QA-System-using-Langchain
+- git clone https://github.com/raadongithub/QA-System-using-Langchain.git 
+- cd QA-System-using-Langchain
 
 2. Install dependencies:
 `pip install -r requirements.txt`
