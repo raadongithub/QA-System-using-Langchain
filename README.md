@@ -4,7 +4,7 @@
 
 This repository contains an AI-powered Question-Answering application that leverages Retrieval-Augmented Generation (RAG) to provide accurate answers based on uploaded documents. The application uses Google's Gemini AI model and LangChain for document processing and retrieval.
 
-
+https://github.com/user-attachments/assets/e360650c-a0a5-4e99-b71c-677303326cda
 
 ## Contents
 
